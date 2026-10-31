@@ -1,93 +1,88 @@
-<h1 align="center">Zaidaan</h1>
+# ZAIDAAN ZALFAA
 
-<p align="center">
-  <strong>Developer | Automation Enthusiast | IT & Network Engineering</strong>
-</p>
+**Developer · Digital Operations · Automation**
 
-<p align="center">
-  <em>"Building useful things, solving problems, and learning through every project."</em>
-</p>
+Supporting people. Streamlining operations. Building practical digital systems.
 
-<p align="center">
-  <a href="https://zaidaan.my.id">
-    <img src="https://img.shields.io/badge/PORTFOLIO-zaidaan.my.id-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/overhaulpxl">
-    <img src="https://img.shields.io/badge/GITHUB-overhaulpxl-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+[Portfolio](https://zaidaan.my.id) · [GitHub](https://github.com/overhaulpxl) · [All repositories](https://github.com/overhaulpxl?tab=repositories)
 
 ---
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>About Me</h3>
-      I'm Zaidaan, a developer with a background in Computer and Network Engineering. I enjoy building practical digital products, automating workflows, and exploring how technology can solve everyday problems.
+## About Me
 
-      My work ranges from web applications and Python bots to desktop tools and community-focused projects. I'm always learning, experimenting, and improving the way I build things.
-    </td>
-    <td width="45%" valign="top">
-      <h3 align="center">Most Used Languages</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overhaulpxl&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages">
-      </p>
-    </td>
-  </tr>
-</table>
+I'm Zaidaan, a Computer and Network Engineering graduate. My work sits at the intersection of software, community operations, and digital services. I enjoy building practical tools, improving workflows, supporting users, and turning day-to-day problems into useful systems.
 
----
+My experience includes community and transaction operations, customer support, website and order management, bot development, automation, and basic IT support.
 
-<h3 align="center">Featured Projects</h3>
+## Selected Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/overhaulpxl/norden">Norden</a></h4>
-      A project space for Norden products, including finance tools and secure commerce initiatives.
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/overhaulpxl/w2ebot">W2E Bot</a></h4>
-      A Discord/community automation project built for Way 2 Eternal.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/overhaulpxl/b1-prufung-web">B1 Prüfung Simulation</a></h4>
-      A web-based German B1 exam practice and simulation project.
-    </td>
-    <td width="50%" valign="top">
-      <h4>Aeralis Bot</h4>
-      Another bot project in my development work.
-    </td>
-  </tr>
-</table>
+### 01 · NORDEN — Secure Commerce Platform
 
-<p align="center">
-  <a href="https://github.com/overhaulpxl?tab=repositories">Explore all repositories →</a>
-</p>
+A multi-guild Discord commerce platform in development, planned around a Discord bot, guild dashboard, user portal, public website, global vouch network, and secure identity vault. The current repository focuses on its engineering foundations, identity and tenancy, permissions, and audit infrastructure.
 
----
+**Tech:** Python · FastAPI · discord.py · PostgreSQL · Redis · Next.js · React · TypeScript · Docker
 
-<h3 align="center">Tools & Technologies</h3>
+[Repository](https://github.com/overhaulpxl/norden)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,tauri,sqlite,postgres,git,github,vscode,linux" alt="Tools and technologies">
-</p>
+### 02 · Way 2 Eternal Bot / AERALIS Nexus
+
+A Discord community bot combining an RPG progression system, ledger-based virtual economy, moderation and community utilities, Gemini-powered AI features, Norden Protocol escrow concepts, and a Next.js operator dashboard.
+
+**Tech:** Python · discord.py · PostgreSQL · Supabase · Gemini API · Next.js
+
+[Repository](https://github.com/overhaulpxl/w2ebot)
+
+### 03 · B1 Prüfung — Goethe Exam Practice
+
+A lightweight web app for independent Goethe-Zertifikat B1 preparation. It includes timed Lesen and Schreiben practice, different question formats, writing word counts, responsive layouts, and feedback after submission.
+
+**Tech:** HTML · CSS · JavaScript · JSON
+
+[Repository](https://github.com/overhaulpxl/b1-prufung-web) · [Live application](https://b1-prufung-web.vercel.app)
+
+### 04 · Middleman — Transaction Operations
+
+Buyer–seller transaction coordination with clear records, responsive communication, and dispute support. My portfolio records more than 1,000 completed transactions.
+
+**Tools:** Discord · Spreadsheets · Communication · Record keeping
+
+[Portfolio details](https://zaidaan.my.id)
+
+### 05 · Mandalawangi Outbound — Website
+
+Developed the company's information website and supported event operations, participant safety, and event logistics.
+
+**Tech:** Next.js · Tailwind CSS
+
+[Visit website](https://mandalawangioutbound.com) · [Portfolio details](https://zaidaan.my.id)
 
 ---
 
-<h3 align="center">GitHub Overview</h3>
+## Experience Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=overhaulpxl&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=overhaulpxl&hide_border=true&theme=transparent" height="165" alt="GitHub Streak">
-</p>
+- **Way 2 Eternal Community** — community operations, buyer–seller transactions, member support, dispute coordination, and transaction records.
+- **NXRDEN Store** — website and order management, payment checks, delivery workflow, and customer support.
+- **Seraphim Robux Store** — customer service, order processing, and a Python Telegram bot for order tracking.
+- **Mandalawangi Outbound** — event facilitation and website development.
+- **JP.Computindo** — basic PC and printer troubleshooting, software installation, and office IT support.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=overhaulpxl&style=flat&color=grey&label=PROFILE+VIEWS" alt="Profile views">
-</p>
+## Skills & Technologies
 
-<p align="center">
-  <em>Building quietly. Improving consistently.</em>
-</p>
+**Development:** Python, JavaScript, HTML, CSS, React, Next.js, TypeScript, Tailwind CSS, FastAPI
+
+**Bots & Automation:** discord.py, Telegram bots, Gemini API, workflow automation
+
+**Data & Infrastructure:** PostgreSQL, Supabase, Redis, SQLite, Docker, Git, GitHub
+
+**IT & Operations:** Computer and network troubleshooting, MikroTik, Winbox, customer support, transaction handling, documentation, and record keeping
+
+---
+
+## Find Me Online
+
+- **Portfolio:** [zaidaan.my.id](https://zaidaan.my.id)
+- **GitHub:** [@overhaulpxl](https://github.com/overhaulpxl)
+
+---
+
+*Building practical systems. Improving one iteration at a time.*
