@@ -1,4 +1,4 @@
-[<h1 align="center">Zaidaan</h1>
+<h1 align="center">Zaidaan</h1>
 
 <p align="center">
   <strong>Developer | Automation Enthusiast | IT & Network Engineering</strong>
@@ -91,4 +91,3 @@
 <p align="center">
   <em>Building quietly. Improving consistently.</em>
 </p>
-](https://zaidaan.my.id/work)
