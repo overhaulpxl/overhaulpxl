@@ -1,4 +1,4 @@
-<h1 align="center">Zaidaan</h1>
+<h1 align="center">Zaidaan Z</h1>
 
 <p align="center">
   <strong>Developer · Automation Enthusiast · IT & Network Engineering</strong>
